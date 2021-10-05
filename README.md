@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessicamaev
 - 👀 I’m interested in ... feminist approach on education, technology, and art
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... HTML & CSS
+- 💞️ I’m looking to ... 
 - 📫 How to reach me ... 
 
 <!---

@@ -1,7 +1,9 @@
+## Jessica Mae
+
 - 👋 Hi, I’m @jessicamaev
 - 👀 I’m interested in ... feminist approach on education, technology, and art
-- 🌱 I’m currently learning ... HTML & CSS
-- 💞️ I’m looking to ... become a front-end web dev 
+- 🌱 I’m currently learning ... HTML & CSS & Javascript
+- 💞️ I’m looking to ... build foundational skills 
 - 📫 How to reach me ... jvinluan@hotmail.com
 
 <!---

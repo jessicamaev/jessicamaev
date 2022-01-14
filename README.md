@@ -1,9 +1,7 @@
 ## Jessica Mae
 
 - 👋 Hi, I’m @jessicamaev
-- 👀 I’m interested in ... feminist approach to education, technology, and art
 - 🌱 I’m currently learning ... HTML & CSS & Javascript
-- 📫 How to reach me ... jvinluan@hotmail.com
 
 <!---
 jessicamaev/jessicamaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

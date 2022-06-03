@@ -1,5 +1,4 @@
-## Hi, I'm Jessica Mae, Web Developer & Educator
-🔭 I'm currently completing a software engineering bootcamp
+## Hi, I'm Jessica Mae, Software Engineer & Educator
 
 
 <!---
